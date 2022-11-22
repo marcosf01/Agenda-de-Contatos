@@ -1,0 +1,16 @@
+program AgendaDeContatos;
+
+uses
+  Vcl.Forms,
+  AgendaDeContato.View.Contatos in 'src\View\AgendaDeContato.View.Contatos.pas' {frmContatos},
+  AgendaDeContato.Model.Contatos in 'src\Model\AgendaDeContato.Model.Contatos.pas' {DataModule1: TDataModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmContatos, frmContatos);
+  Application.CreateForm(TDataModule1, DataModule1);
+  Application.Run;
+end.

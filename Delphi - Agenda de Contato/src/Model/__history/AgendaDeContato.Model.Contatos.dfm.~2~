@@ -1,0 +1,5 @@
+object dmContatos: TdmContatos
+  Height = 507
+  Width = 693
+  PixelsPerInch = 120
+end

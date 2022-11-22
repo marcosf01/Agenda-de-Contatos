@@ -1,0 +1,25 @@
+unit AgendaDeContato.Model.Contatos;
+
+interface
+
+uses
+  System.SysUtils, System.Classes;
+
+type
+  TdmContatos = class(TDataModule)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  dmContatos: TdmContatos;
+
+implementation
+
+{%CLASSGROUP 'Vcl.Controls.TControl'}
+
+{$R *.dfm}
+
+end.

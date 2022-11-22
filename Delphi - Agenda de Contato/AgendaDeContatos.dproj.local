@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/06 20:15:37.000.354,=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/12 14:05:24.000.720,=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/12 14:08:50.000.415,C:\Users\marco\OneDrive\Área de Trabalho\Delphi - Agenda de Contato\src\View\AgendaDeContato.View.Contatos.pas=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/12 14:08:50.000.415,C:\Users\marco\OneDrive\Área de Trabalho\Delphi - Agenda de Contato\src\View\AgendaDeContato.View.Contatos.dfm=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/12 14:09:27.000.374,C:\Users\marco\OneDrive\Área de Trabalho\Delphi - Agenda de Contato\AgendaDeContatos.dproj=C:\Users\marco\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/17 14:11:44.000.774,=C:\Users\marco\OneDrive\Área de Trabalho\Delphi - Agenda de Contato\Unit1.pas</Transaction>
+    <Transaction>2022/11/17 14:12:49.000.688,C:\Users\marco\OneDrive\Área de Trabalho\Delphi - Agenda de Contato\src\Model\AgendaDeContato.Model.Contatos.pas=C:\Users\marco\OneDrive\Área de Trabalho\Delphi - Agenda de Contato\Unit1.pas</Transaction>
+    <Transaction>2022/11/17 14:12:49.000.688,C:\Users\marco\OneDrive\Área de Trabalho\Delphi - Agenda de Contato\src\Model\AgendaDeContato.Model.Contatos.dfm=C:\Users\marco\OneDrive\Área de Trabalho\Delphi - Agenda de Contato\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
